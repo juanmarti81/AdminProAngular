@@ -16,10 +16,5 @@ export class GraficoDonnaComponent implements OnInit {
   constructor() {}
 
   ngOnInit() {
-    console.log('Data: ', this.data);
-    console.log("labels: ", this.labels);
-    console.log("ChartType: ", this.type);
-    console.log("leyenda: ", this.leyenda);
-
   }
 }

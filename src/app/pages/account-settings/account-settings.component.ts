@@ -1,6 +1,7 @@
 import { Component, OnInit, Inject } from "@angular/core";
 import { SettingsService } from "../../services/service.index";
 
+
 @Component({
   selector: "app-account-settings",
   templateUrl: "./account-settings.component.html",
